@@ -30,10 +30,9 @@
 	<img src="https://github.com/danisluis6/Android-Error/blob/master/3.png">
 </p>
 Solve:
-<p align="center">
-	<img src="https://github.com/danisluis6/Android-Error/blob/master/4.png">
-</p>
-
+<p align="center">Formatting and Styling</p>
+<p align="center"><img src="https://github.com/danisluis6/Android-Error/blob/master/4.png"></p>
+https://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling
 
 ##About GUI
 ##EditText

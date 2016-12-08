@@ -8,16 +8,14 @@
 - [About Messages](#about-messages)
   - [Res Drawable](#res-drawable)
     - [File-based](#file-based)
-    - [How to create EditText with rounded corners](#how-to-create-edittext-with-rounded-corners)
-    - [How to add icon inside EditText view in Android](#how-to-add-icon-inside-edittext-view-in-android)
-    - [How to set any image for ImageView](#how-to-set-any-image-for-imageview)
+
+- [About String](#about-string)
+  - [File Value](#file-value)
+    - [Apostrophe not preceded](#apostrophe-not-preceded)
 
 - [About GUI](#about-gui)
   - [EditText](#edittext)
     - [Enter data into EditText](#enter-data-into-edittext)
-    - [How to create EditText with rounded corners](#how-to-create-edittext-with-rounded-corners)
-    - [How to add icon inside EditText view in Android](#how-to-add-icon-inside-edittext-view-in-android)
-    - [How to set any image for ImageView](#how-to-set-any-image-for-imageview)
 
 ##Res Drawable
 ##File-based
@@ -25,6 +23,12 @@
 	<img src="https://github.com/danisluis6/Android-Error/blob/master/1.png">
 </p>
 
+##About String
+##File Value
+##Apostrophe not preceded
+<p align="center">
+	<img src="https://github.com/danisluis6/Android-Error/blob/master/3.png">
+</p>
 
 ##About GUI
 ##EditText

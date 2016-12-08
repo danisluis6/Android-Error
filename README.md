@@ -29,6 +29,11 @@
 <p align="center">
 	<img src="https://github.com/danisluis6/Android-Error/blob/master/3.png">
 </p>
+Solve:
+<p align="center">
+	<img src="https://github.com/danisluis6/Android-Error/blob/master/4.png">
+</p>
+
 
 ##About GUI
 ##EditText

@@ -14,8 +14,8 @@
     - [Apostrophe not preceded](#apostrophe-not-preceded)
 
 - [About GUI](#about-gui)
-  - [EditText](#edittext)
-    - [Enter data into EditText](#enter-data-into-edittext)
+  - [Enter data into EditText](#enter-data-into-edittext)
+  - [Bitmap too large to be uploaded into a texture](#bitmap-too-large-to-be-uploaded-into-a-texture)
 
 ##Res Drawable
 ##File-based
@@ -35,10 +35,13 @@ Solve:
 https://developer.android.com/guide/topics/resources/string-resource.html#FormattingAndStyling
 
 ##About GUI
-##EditText
 ##Enter data into EditText
 <p align="center">
 	<img src="https://github.com/danisluis6/Android-Error/blob/master/2.png">
 </p>
 
+##Bitmap too large to be uploaded into a texture
+<p align="center">
+	<img src="https://github.com/danisluis6/Android-Error/blob/master/5.png">
+</p>
 
